@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-mvc-console",
+    "name": "rnd-cosoft/laminas-mvc-console",
     "description": "Integration between laminas-mvc and laminas-console",
     "license": "BSD-3-Clause",
     "keywords": [
